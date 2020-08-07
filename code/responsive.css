@@ -1,0 +1,29 @@
+@media only screen and (max-width: 760px){
+
+.columnas3{
+    width: 100%;
+}
+
+.tablax4{
+    width: 100%;
+}
+
+.tablaxd{
+    width: 100%;
+}
+
+}
+
+@media only screen and (min-width: 761px) and (max-width: 1050px){
+
+    
+    .tablax4{
+        width: 50%;
+    }
+    
+    .tablaxd{
+        width: 50%;
+    }
+    
+   
+}

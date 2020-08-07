@@ -1,0 +1,36 @@
+#particles-js{
+    background: url(img/codew.png);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    width: 100%;
+    z-index: 5;
+    
+}
+
+.ancho-letras{
+    top: 130px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+.letras-slider{
+     width: 50%;
+     margin: auto;
+}
+
+.letras-slider h1{
+    color: rgb(0, 0, 0);
+    font-family: logof;
+    font-size: 55px;
+}
+
+.letras-slider p{
+    color: rgb(0, 0, 0);
+    font-family: logof;
+    font-size: 20px;
+    padding-top: 40px;
+}
+

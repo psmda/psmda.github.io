@@ -1,0 +1,33 @@
+.doscolumnas{
+    margin-top: 2%;
+}
+
+.formulario{
+    float: left;
+    width: 50%;
+    margin-top: auto;
+    color: #999;
+}
+
+.caja1{
+    width: 32%;
+    height: 4%;
+    margin: 1.7%;
+    padding: .9%;
+    font-size: 70%;
+}
+
+.caja2{
+    width: 70%;
+    height: 4%;
+    margin: 1.7%;
+    padding: .9%;
+    font-size: 90%;
+
+}
+
+.correr{
+    margin: 1%;
+    padding: 1%;
+    width: 70%;
+}
